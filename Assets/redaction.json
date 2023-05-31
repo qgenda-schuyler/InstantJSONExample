@@ -1,0 +1,39 @@
+{
+  "annotations": [
+    {
+      "bbox": [
+        337.77972412109375,
+        121.1519775390625,
+        166.67999267578125,
+        45.39599609375
+      ],
+      "blendMode": "normal",
+      "color": "#FF8000",
+      "createdAt": "2019-10-14T11:06:12Z",
+      "creatorName": "User",
+      "fillColor": "#000000",
+      "id": "01DQ4Z4ZESR76N0Y2YRABCD78F",
+      "name": "77A956AB-1103-41FD-BE32-CD29432489EA",
+      "note": "",
+      "opacity": 1,
+      "outlineColor": "#FF2500",
+      "pageIndex": 0,
+      "rects": [
+        [
+          337.77972412109375,
+          121.1519775390625,
+          166.67999267578125,
+          45.39599609375
+        ]
+      ],
+      "type": "pspdfkit/markup/redaction",
+      "updatedAt": "2019-10-14T11:06:12Z",
+      "v": 1
+    }
+  ],
+  "format": "https://pspdfkit.com/instant-json/v1",
+  "pdfId": {
+    "changing": "q7kCvd9QOQN65Y4m3W929g==",
+    "permanent": "q7kCvd9QOQN65Y4m3W929g=="
+  }
+}

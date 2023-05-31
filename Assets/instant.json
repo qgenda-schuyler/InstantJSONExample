@@ -1,0 +1,38 @@
+{
+  "annotations": [
+    {
+      "backgroundColor": "#FF0000",
+      "bbox": [
+        10,
+        10,
+        400,
+        400
+      ],
+      "creatorName": "Bill Murray",
+      "createdAt": "2018-08-21T14:35:51Z",
+      "font": "Helvetica",
+      "fontColor": "#000000",
+      "fontSize": 72,
+      "fontStyle": [
+        "bold",
+        "italic"
+      ],
+      "horizontalAlign": "right",
+      "id": "01CNEEM7FQCYTBG209AVEMAPKG",
+      "isFitting": true,
+      "name": "01CNEEKKS2JVPPAEDPKVBYBF65",
+      "opacity": 1,
+      "pageIndex": 0,
+      "text": "A new text annotation",
+      "type": "pspdfkit/text",
+      "updatedAt": "2018-08-21T14:35:51Z",
+      "v": 1,
+      "verticalAlign": "bottom"
+    }
+  ],
+  "format": "https://pspdfkit.com/instant-json/v1",
+  "pdfId": {
+    "changing": "q7kCvd9QOQN65Y4m3W929g==",
+    "permanent": "q7kCvd9QOQN65Y4m3W929g=="
+  }
+}
